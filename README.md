@@ -1,16 +1,18 @@
 ### Hi there, I'm Tal  👋
 
-<!--
-**segaltal1/segaltal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm FullStack Developer 
 
-Here are some ideas to get you started:
+### Connect with me:  <img align="left"  alt="connect-icon" width="22px" src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png">
+<br /> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1633937297~hmac=bb218264a60da1e576500439f9bc30b5" />][linkedin]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" />][facebook]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" />][gmail]
+ 
+<br /> 
+
+
+[linkedin]: https://www.linkedin.com/in/tal-segal1/
+[facebook]: https://www.facebook.com/profile.php?id=100000608010874
+[gmail]: mailto:tlsgl62@gmail.com
+
