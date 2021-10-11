@@ -6,9 +6,9 @@
 
 ## About me
 - 👌 I run multiple projects.
-- 🆕 Discovering  new technology
+- 🆕 Discovering  new technologies.
 - 👋 Let's connect. [Follow me](https://www.linkedin.com/in/tal-segal1/) on Linkid.
-- ☕ I'm helping other developers by sharing my knowledge for free.  
+- ☕ I help to other developers by sharing my knowledge.  
 ---
 ### Connect with me:  <img align="left"  alt="connect-icon" width="22px" src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png">
 
