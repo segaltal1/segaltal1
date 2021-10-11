@@ -18,13 +18,13 @@
 [<img align="left" alt="Sass" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="React" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Redux" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" />][reactplaylist]
-[<img align="left" alt="Node.js" width="100px"  height="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Node.js_logo_2015.svg/1280px-Node.js_logo_2015.svg.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="50px" height="40px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" />][webdevplaylist]
- 
-[<img align="left" alt="Git" width="40px"  src="https://cdn.iconscout.com/icon/free/png-256/git-1-226092.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+[<img align="left" alt="Redux" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" />][reactplaylist]
+[<img align="left" alt="Vue" width="22px" src="https://e7.pngegg.com/pngimages/789/586/png-clipart-gray-and-green-v-vue-js-logo-icons-logos-emojis-tech-companies-thumbnail.png" />][reactplaylist]
+[<img align="left" alt="Node.js" width="30px"  height="22px" src="https://w7.pngwing.com/pngs/117/744/png-transparent-node-js-javascript-express-js-software-developer-react-network-code-angle-text-rectangle.png" />][webdevplaylist]
+[<img align="left" alt="MongoDB" width="30px" height="30px" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" />][webdevplaylist]
+[<img align="left" alt="Git" width="22px"  src="https://cdn.iconscout.com/icon/free/png-256/git-1-226092.png" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
  <br /> 
  <br /> 
  
