@@ -28,7 +28,14 @@
 [<img align="left" alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+ <br /> 
+ <br /> 
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=segaltal1&count_private=true&show_icons=true&include_all_commits=true)
+ <br /> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=segaltal1&hide=TeX&layout=compact)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=segaltal1.segaltal1)
 
 [linkedin]: https://www.linkedin.com/in/tal-segal1/
 [facebook]: https://www.facebook.com/profile.php?id=100000608010874
