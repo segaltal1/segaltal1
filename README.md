@@ -1,3 +1,5 @@
+<img src="https://svgshare.com/i/b3F.svg" alt="Logo" width="250px" />
+
 ### Hi there, I'm Tal  👋
 
 ## I'm FullStack Developer 
