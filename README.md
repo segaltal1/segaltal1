@@ -2,8 +2,14 @@
 
 ### Hi there, I'm Tal  👋
 
-## I'm FullStack Developer 
+## I'm Fullstack  Web Developer
 
+## About me
+- 👌 I run multiple projects.
+- 🆕 Discovering  new technology
+- 👋 Let's connect. [Follow me](https://www.linkedin.com/in/tal-segal1/) on Linkid.
+- ☕ I'm helping other developers by sharing my knowledge for free.  
+---
 ### Connect with me:  <img align="left"  alt="connect-icon" width="22px" src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png">
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1633937297~hmac=bb218264a60da1e576500439f9bc30b5" />][linkedin]
